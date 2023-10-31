@@ -1,0 +1,9 @@
+[submodule "relevancy"]
+	path = relevancy
+	url = https://github.com/mxndtaylor/jsonschema-relevancy
+[submodule "base"]
+	path = base
+	url = https://github.com/mxndtaylor/jsonschema-base
+[submodule "employment"]
+	path = employment
+	url = https://github.com/mxndtaylor/jsonschema-employment
